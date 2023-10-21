@@ -1,3 +1,18 @@
-h1 {
+    h1 {
     text-decoration: underline;
 }
+
+    .bold {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+    #copyright {
+        font-size: 50%;
+    }
+
+    img {
+        height: 400px;
+        border: 7px solid;
+        padding: 5px;
+        margin: 50px;
+    }
